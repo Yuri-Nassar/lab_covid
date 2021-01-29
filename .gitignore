@@ -1,2 +1,5 @@
 input_datasets/.DS_Store
-.ipynb_checkpoints/covid_dict-checkpoint.ipynb
+.ipynb_checkpoints/
+.DS_Store
+.gitignore
+imgs/
