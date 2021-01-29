@@ -3,3 +3,8 @@ input_datasets/.DS_Store
 .DS_Store
 .gitignore
 imgs/
+.ipynb_checkpoints/covid_dict-checkpoint.ipynb
+ococlus/.DS_Store
+.DS_Store
+.ipynb_checkpoints/dadosRS_binary_matrix_dictionary-checkpoint.ipynb
+.DS_Store
