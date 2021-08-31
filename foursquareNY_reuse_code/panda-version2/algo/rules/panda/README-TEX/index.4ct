@@ -1,0 +1,7 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-21}{}{\ignorespaces  the top-16 patterns mined by {\sc  PaNDa$^+$}\xspace  \nobreakspace  {}$J_{E}$ from the DBLP database with different noise thresholds $\epsilon _{r}$ and $\epsilon _{c}$.}}{figure}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-10001}{QQ2-1-2}{Patterns extracted from a real social network}}{6}\relax 
+\doTocEntry\toclot{1}{\csname a:TocLink\endcsname{1}{x1-10011}{}{\ignorespaces Some groups of publication venues referring to Fig. 1\hbox {}a.}}{table}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-20002}{QQ2-1-4}{Implementation source code and usage}}{10}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-5}{References}}{11}\relax 
+\par 
